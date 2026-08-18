@@ -2,7 +2,7 @@
 
 This repository and Zenodo deposit support the manuscript:
 
-> Sparse Verified Error Bounds for Route-Specific Tangent-Perturbation Responses
+> Verified Error Bounds for Route-Specific Responses to Sparse Operator Perturbations
 
 The public archive contains non-confidential code, fixed synthetic sparse operands, benchmark and finite-range scalability results, figure/table inputs, generated figures, and environment metadata. It excludes Abaqus executables, UEL source code, solver-state histories, production meshes, material databases, and engineering project data.
 
